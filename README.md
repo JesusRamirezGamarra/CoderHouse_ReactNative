@@ -21,3 +21,6 @@ Si no reconstruyera de forma efectiva del package-lock.json
         "react-native": "0.67.3",
         "react-native-uuid": "^2.0.1"
       },
+
+Adicionales : 
+Sonbre el directorio Wireframe se encuentra el wireframe propuesto del aplicativo.
