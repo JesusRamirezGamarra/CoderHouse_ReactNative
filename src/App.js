@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import React, {Fragment, useState, useRef, useEffect} from 'react';
 import {View, Button, TextInput, Text, FlatList, TouchableOpacity, Modal} from 'react-native';
-import { CheckBox, Icon } from 'react-native-elements';
+//import { CheckBox, Icon } from 'react-native-elements';
 import {StylesRoot} from './Assets/Css/styles';
 import uuid from 'react-native-uuid';
 import CustomTitle from './Assets/Components/atoms/CustomTitle';
