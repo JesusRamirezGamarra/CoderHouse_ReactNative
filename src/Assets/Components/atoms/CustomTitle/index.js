@@ -10,7 +10,7 @@ const CustomTitle = ({title }) => {
             <Text style={styles.textTitle} >{title}</Text>
         </View>
         <View style={styles.containerTitleSecundary}>
-            <Text style={styles.textTitle} >Todo : Tareas</Text>
+            <Text style={styles.textTitle} >TODO : Tareas</Text>
         </View>
     </View>
     )}
